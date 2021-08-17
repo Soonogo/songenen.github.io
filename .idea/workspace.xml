@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c05db3a1-9292-4d3f-8988-fcf6ef37aaca" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/3.svg" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +32,11 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Songen\Desktop\bing" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -52,17 +55,38 @@
       <workItem from="1618472964804" duration="7000" />
       <workItem from="1618933157333" duration="752000" />
       <workItem from="1619538099838" duration="8000" />
-      <workItem from="1619844063171" duration="810000" />
+      <workItem from="1619844063171" duration="1425000" />
+      <workItem from="1619845507864" duration="42000" />
+      <workItem from="1619845564729" duration="16000" />
+      <workItem from="1621522544743" duration="6000" />
+      <workItem from="1622560909472" duration="40000" />
+      <workItem from="1623308014814" duration="13000" />
     </task>
+    <task id="LOCAL-00001" summary="update">
+      <created>1619844980688</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619844980688</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="update" />
+    <option name="LAST_COMMIT_MESSAGE" value="update" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="473" y="164" key="SettingsEditor" timestamp="1617517711565">
+    <state x="570" y="47" key="CommitChangelistDialog2" timestamp="1619844980042">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="473" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1617517711565" />
+    <state x="570" y="47" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1619844980042" />
+    <state x="473" y="164" key="SettingsEditor" timestamp="1622560943908">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="473" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1622560943908" />
   </component>
 </project>
